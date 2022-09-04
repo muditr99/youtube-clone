@@ -1,0 +1,57 @@
+.header{
+    color: white;
+    background-color: black;
+    position: fixed;
+    top: 0px;
+    left: 0px;
+    right: 0px;
+    height: 70px;
+    z-index: 1;
+}
+
+.sidebar{
+    color: white;
+    background-color: green;
+    position: fixed;
+    left: 0px;
+    bottom: 0px;
+    top: 70px;
+    width: 75px;
+}
+
+.firstDiv{
+    height: 400px;
+    width: 400px;
+    background-color: lightblue;
+}
+
+.secondDiv{
+    height: 400px;
+    width: 400px;
+    background-color: lightpink;
+    position: relative;
+}
+
+.absolute{
+    position: absolute;
+    top: 70px;
+    right: 0px;
+    background-color: violet;
+    color: white;
+}
+
+.close{
+    position: absolute;
+    top: 0px;
+    right: 0px;
+    background-color: black;
+    color: white;
+}
+
+.share{
+    position: absolute;
+    left: 50%;
+    bottom: 10px;
+    background-color: gray;
+    color: white;
+}

@@ -1,0 +1,35 @@
+.video-title{
+    font-family: Roboto;
+    font-size: 20px;
+    font-weight: bold;
+    width: 400px;
+    /* text-decoration: underline; */
+    /* text-align: center; */
+    /* font-style: italic;
+    color: blue; */
+    margin-bottom: 5px;
+}
+
+.text-color{
+    color: grey;
+    font-family: Arial;
+    font-size: 16px;
+}
+
+/* .apple-container{
+    padding: 15px;
+    background-color: rgb(255, 93, 93);
+    width: 600px;
+} */
+
+.apple{
+    text-align: center;
+    color: white;
+    background-color: rgb(255, 93, 93);
+    width: 600px;
+    padding: 15px;
+}
+
+.apple span:hover{
+    text-decoration: underline;
+}
